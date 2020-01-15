@@ -2,6 +2,7 @@
 Tasks in this project are as follows:
 
 Data wrangling, which consists of: 
+
 Gathering data
 
 Assessing data
